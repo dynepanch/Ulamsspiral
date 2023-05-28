@@ -9,6 +9,8 @@
 #define NEXT		1
 #define qbe_size 51
 
+#define FIRST_NUM	41
+
 unsigned int hurui(int Num,int pat);
 unsigned int sosuu_hantei(unsigned int );
 
@@ -73,7 +75,7 @@ void print_spiral(void) {
     static int x=0,y=0,sou=0;
     int kaisou_MAX,MAX_NUM,MINI_NUM;
     i=0;
-    MINI_NUM=41;
+    MINI_NUM=FIRST_NUM;
     MAX_NUM=qbe_size*qbe_size+MINI_NUM-1;
     //printf("%d,%d,",x,y);
     kaisou_MAX=qbe_size/2+1;
