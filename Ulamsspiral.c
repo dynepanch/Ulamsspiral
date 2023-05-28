@@ -1,3 +1,5 @@
+//SPDX-FileCopyrightText: 2023 Ken Inaba rightman20020920@yahoo.co,jp
+//SPDX-Licence-Identifire: BSD-3-Clause
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
