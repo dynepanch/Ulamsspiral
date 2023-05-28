@@ -24,3 +24,8 @@ $f(x)=$x^2+x+41
 実行
 
 `./Ulamsspiral`
+
+
+Ulamsspiral.c内のFIRST_NUMの数を変更することで中心の値を変更できます。
+
+
